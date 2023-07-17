@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Philadelphia shooting: Teenager died trying to save friend, mother says",
+            "description": "Another victim of the shooting had been expecting to walk his daughter down the aisle this weekend.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66121634",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AC61/production/_130292144_fbe4ad7c51395427015c82b71ed5ea3a9df7c29b0_0_4000_22511000x563.jpg",
+            "publishedAt": "2023-07-06T13:52:20.3435145Z",
+            "content": "A teenager who was trying to save a friend's life and a father who was days away from seeing his daughter get married were among those killed in a shooting in Philadelphia.\r\nA gunman, who has since b… [+2830 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Silvio Berlusconi: Former Italian PM's eldest children get majority stake",
+            "description": "The will of one of Italy's richest men gives control to his two eldest children.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66122641",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8F98/production/_130306763_e1b8537c8bcefdbc93a5e8e27bbcbd2a891c24cc.jpg",
+            "publishedAt": "2023-07-06T13:22:18.2808357Z",
+            "content": "It's been the object of much speculation for weeks: who would lead Silvio Berlusconi's empire after his death? \r\nNow his will has been made public, it is clear he has handed a majority stake in the f… [+2962 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Sweden charges Greta Thunberg for blockading oil port",
+            "description": "The climate activist blocked a port handling fossil fuels with a group of young activists in June.",
+            "url": "http://www.bbc.co.uk/news/science-environment-66120290",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B5D6/production/_130305564_thunberg-index-reuters.jpg",
+            "publishedAt": "2023-07-06T11:37:08.9993033Z",
+            "content": "Climate activist Greta Thunberg will appear in court in July charged with \"disobeying the police\" during a protest, Swedish prosecutors have said.\r\nMs Thunberg, 20, joined a group of young protesters… [+2780 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Russian jets 'harassing' US drones over Syria - US Air Force",
+            "description": "The US has released video reportedly showing its aircraft being forced to take evasive action during a mission.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66119404",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/116AC/production/_130304317_p0fz7vg4.jpg",
+            "publishedAt": "2023-07-06T10:37:21.6250863Z",
+            "content": "The US Air Force has released video footage that it says shows Russian jets \"harassing\" US drones over the skies of Syria.\r\nAir Force Lieutenant General Alexus Grynkewich said that, at the time of th… [+89 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Wagner boss Prigozhin is in Russia, Belarus ruler Lukashenko says",
+            "description": "Alexander Lukashenko says Prigozhin, who led a short-lived mutiny in Russia, is in St Petersburg.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66118007",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2023-07-06T08:22:18.2339677Z",
+            "content": "The head of the Wagner mercenary group Yevgeny Prigozhin - who led a short-lived armed rebellion in Russia last month - is in Russia, longtime Belarus leader Alexander Lukashenko says.\r\nPrigozhin's w… [+259 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coco Lee: The pioneering singer who charmed the world",
+            "description": "Coco Lee was one of the first Asian singers to gain prominence in the US pop music world.",
+            "url": "http://www.bbc.co.uk/news/world-asia-66117306",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/285A/production/_130303301_gettyimages-1060543514.jpg",
+            "publishedAt": "2023-07-06T07:52:21.7810911Z",
+            "content": "Millions of Asians tuned in on their television and mobile screens on what a Monday in March 2001 to watch Coco Lee sing A Love Before Time - the stirring theme from the acclaimed film Crouching Tige… [+4199 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Can 'good cop' Janet Yellen help fix US-China relations?",
+            "description": "The US Treasury secretary's trip to Beijing comes as tensions between the two countries remain high.",
+            "url": "http://www.bbc.co.uk/news/business-66083740",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/43BB/production/_130293371_gettyimages-1244770277-1.jpg",
+            "publishedAt": "2023-07-06T07:37:20.0625426Z",
+            "content": "US Treasury Secretary Janet Yellen is due to arrive in China as part of high-stakes attempts to rebuild bridges between the world's two biggest economies.\r\nIt is the second visit to Beijing by a seni… [+5627 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Injuries reported in Russian rocket strike on Lviv",
+            "description": "Eight people are hurt after apartments were hit in the western Ukrainian city, the mayor says.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66117111",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2023-07-06T02:52:16.0467329Z",
+            "content": "A Russian rocket has hit an apartment building in the western Ukrainian city of Lviv, injuring at least eight people, the local mayor has said.\r\nAndriy Sadovyi said one person was in a serious condit… [+253 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Yankees and Orioles: Cameraman hurt by wild throw at game",
+            "description": "A game against the Baltimore Orioles is stopped as an injured cameraman receives medical treatment.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66117075",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7738/production/_130302503_gettyimages-1518000487.jpg",
+            "publishedAt": "2023-07-06T02:37:16.6561824Z",
+            "content": "A cameraman was injured after being hit in the head by a baseball at Wednesday night's match in New York between the Yankees and the Baltimore Orioles.\r\nPete Stendel of the YES Network was struck dur… [+763 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Threads: Instagram owner launches Twitter-like app",
+            "description": "The new app is now available to download in over 100 countries, though not in the European Union.",
+            "url": "http://www.bbc.co.uk/news/technology-66112648",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/181FA/production/_130301889_2.flowscreens-english.png",
+            "publishedAt": "2023-07-05T23:22:13.8742985Z",
+            "content": "Instagram-owner Meta has launched its Threads app, which experts say could attract Twitter users unhappy with recent changes to the platform.\r\nThe app is now available to download in over 100 countri… [+6455 chars]"
+        }
+    ]
+}
